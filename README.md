@@ -55,6 +55,9 @@ High Performance Computer Architecture (HPCA), 2017 IEEE International Symposium
 [1] Huang, Yanping, et al. "**GPipe: Efficient Training of Giant Neural Networks using Pipeline
 Parallelism.**" arXiv preprint arXiv:1811.06965 (2018). [[pdf]](https://arxiv.org/pdf/1811.06965.pdf)
 
+[2] Harlap, Aaron, et al. "**Pipedream: Fast and efficient pipeline parallel dnn training.**" arXiv
+preprint arXiv:1806.03377 (2018). [[pdf]](https://arxiv.org/pdf/1806.03377.pdf)
+
 ## Microservice
 
 [1] Crankshaw, Daniel, et al. "**Clipper: A Low-Latency Online Prediction Serving System.**" NSDI. 2017.
@@ -63,3 +66,9 @@ Parallelism.**" arXiv preprint arXiv:1811.06965 (2018). [[pdf]](https://arxiv.or
 [2] Moritz, Philipp, et al. "**Ray: A Distributed Framework for Emerging AI Applications.**" 13th
 USENIX Symposium on Operating Systems Design and Implementation (OSDI 18). 2018.
 [[pdf]](https://www.usenix.org/system/files/osdi18-moritz.pdf)
+
+## GPU Memory Management
+
+[1] Rhu, Minsoo, et al. "**vDNN: Virtualized deep neural networks for scalable, memory-efficient
+neural network design.**" The 49th Annual IEEE/ACM International Symposium on Microarchitecture. IEEE
+Press, 2016. [[pdf]](https://arxiv.org/pdf/1602.08124.pdf)
