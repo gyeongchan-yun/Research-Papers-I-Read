@@ -72,3 +72,7 @@ USENIX Symposium on Operating Systems Design and Implementation (OSDI 18). 2018.
 [1] Rhu, Minsoo, et al. "**vDNN: Virtualized deep neural networks for scalable, memory-efficient
 neural network design.**" The 49th Annual IEEE/ACM International Symposium on Microarchitecture. IEEE
 Press, 2016. [[pdf]](https://arxiv.org/pdf/1602.08124.pdf)
+
+[2] Kim, Youngrang, et al. "**Efficient Multi-GPU Memory Management for Deep Learning
+Acceleration.**" 2018 IEEE 3rd International Workshops on Foundations and Applications of Self* Systems (FAS* W).
+IEEE, 2018. [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8599530)
