@@ -58,6 +58,9 @@ Parallelism.**" arXiv preprint arXiv:1811.06965 (2018). [[pdf]](https://arxiv.or
 [2] Harlap, Aaron, et al. "**Pipedream: Fast and efficient pipeline parallel dnn training.**" arXiv
 preprint arXiv:1806.03377 (2018). [[pdf]](https://arxiv.org/pdf/1806.03377.pdf)
 
+[3] Hegde, Vishakh, and Sheema Usmani. "**Parallel and distributed deep learning.**" (2016).
+[[pdf]](https://web.stanford.edu/~rezab/classes/cme323/S16/projects_reports/hedge_usmani.pdf)
+
 ## Microservice
 
 [1] Crankshaw, Daniel, et al. "**Clipper: A Low-Latency Online Prediction Serving System.**" NSDI. 2017.
