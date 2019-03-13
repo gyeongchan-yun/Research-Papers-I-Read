@@ -4,16 +4,19 @@
 - Click a [pdf] link to see the paper.
 
 # Big Data Framework
+[1] Dean, Jeffrey, and Sanjay Ghemawat. "**MapReduce: simplified data processing on large
+clusters.**" Communications of the ACM 51.1 (2008): 107-113.
+[[pdf]](https://www.usenix.org/legacy/events/osdi04/tech/full_papers/dean/dean.pdf)
 
-[1] Dimopoulos, Stratos, Chandra Krintz, and Rich Wolski. "**Big data framework interference in
+[2] Dimopoulos, Stratos, Chandra Krintz, and Rich Wolski. "**Big data framework interference in
 restricted private cloud settings.**" Big Data (Big Data), 2016 IEEE International Conference on.
 IEEE, 2016. [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7840620)
 
-[2] Kwak, Jaewon, et al. "**In-memory caching orchestration for hadoop.**" Cluster, Cloud and Grid
+[3] Kwak, Jaewon, et al. "**In-memory caching orchestration for hadoop.**" Cluster, Cloud and Grid
 Computing (CCGrid), 2016 16th IEEE/ACM International Symposium on. IEEE, 2016.
 [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7515674)
 
-[3] Hwang, Eunji, et al. "**CAVA: Exploring Memory Locality for Big Data Analytics in Virtualized
+[4] Hwang, Eunji, et al. "**CAVA: Exploring Memory Locality for Big Data Analytics in Virtualized
 Clusters.**" 2018 18th IEEE/ACM International Symposium on Cluster, Cloud and Grid Computing (CCGRID).
 IEEE, 2018. [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8411006)
 
