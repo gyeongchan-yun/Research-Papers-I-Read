@@ -79,3 +79,6 @@ Press, 2016. [[pdf]](https://arxiv.org/pdf/1602.08124.pdf)
 [2] Kim, Youngrang, et al. "**Efficient Multi-GPU Memory Management for Deep Learning
 Acceleration.**" 2018 IEEE 3rd International Workshops on Foundations and Applications of Self* Systems (FAS* W).
 IEEE, 2018. [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8599530)
+
+[3] Meng, Chen, et al. "**Training deeper models by GPU memory optimization on TensorFlow.**" Proc. of
+ML Systems Workshop in NIPS. 2017. [[pdf]](http://learningsys.org/nips17/assets/papers/paper_18.pdf)
