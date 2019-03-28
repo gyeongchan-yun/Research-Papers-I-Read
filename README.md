@@ -51,7 +51,20 @@ arXiv preprint arXiv:1611.02167 (2016). [[pdf]](https://arxiv.org/pdf/1611.02167
 High Performance Computer Architecture (HPCA), 2017 IEEE International Symposium on. IEEE, 2017.
 [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7920843)
 
+[5] Mirhoseini, Azalia, et al. "**Device placement optimization with reinforcement learning.**"
+Proceedings of the 34th International Conference on Machine Learning-Volume 70. JMLR. org, 2017.
+[[pdf]](https://arxiv.org/pdf/1706.04972.pdf)
+
 # System for Deep Learning
+
+## ML Framework
+
+[1] Abadi, Martín, et al. "**Tensorflow: A system for large-scale machine learning.**" 12th {USENIX}
+Symposium on Operating Systems Design and Implementation ({OSDI} 16). 2016.
+[[pdf]](https://www.usenix.org/system/files/conference/osdi16/osdi16-abadi.pdf)
+
+[2] Girija, Sanjay Surendranath. "**Tensorflow: Large-scale machine learning on heterogeneous
+distributed systems.**" (2016). [[pdf]](https://arxiv.org/pdf/1603.04467.pdf)
 
 ## Parallelism
 
