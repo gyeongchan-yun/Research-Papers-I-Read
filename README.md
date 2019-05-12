@@ -59,8 +59,8 @@ Proceedings of the 34th International Conference on Machine Learning-Volume 70. 
 
 ## ML Framework
 
-[1] Abadi, Martín, et al. "**Tensorflow: A system for large-scale machine learning.**" 12th {USENIX}
-Symposium on Operating Systems Design and Implementation ({OSDI} 16). 2016.
+[1] Abadi, Martín, et al. "**Tensorflow: A system for large-scale machine learning.**" 12th USENIX
+Symposium on Operating Systems Design and Implementation (OSDI 16). 2016.
 [[pdf]](https://www.usenix.org/system/files/conference/osdi16/osdi16-abadi.pdf)
 
 [2] Girija, Sanjay Surendranath. "**Tensorflow: Large-scale machine learning on heterogeneous
@@ -101,8 +101,8 @@ ML Systems Workshop in NIPS. 2017. [[pdf]](http://learningsys.org/nips17/assets/
 
 ## Parameter Server
 
-[1] Li, Mu, et al. "**Scaling distributed machine learning with the parameter server.**" 11th {USENIX}
-Symposium on Operating Systems Design and Implementation ({OSDI} 14). 2014.
+[1] Li, Mu, et al. "**Scaling distributed machine learning with the parameter server.**" 11th USENIX
+Symposium on Operating Systems Design and Implementation (OSDI 14). 2014.
 [[pdf]](https://www.usenix.org/system/files/conference/osdi14/osdi14-paper-li_mu.pdf)
 
 ## Scheduling
