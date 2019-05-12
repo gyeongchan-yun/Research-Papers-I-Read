@@ -98,3 +98,15 @@ IEEE, 2018. [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8599530
 
 [3] Meng, Chen, et al. "**Training deeper models by GPU memory optimization on TensorFlow.**" Proc. of
 ML Systems Workshop in NIPS. 2017. [[pdf]](http://learningsys.org/nips17/assets/papers/paper_18.pdf)
+
+## Parameter Server
+
+[1] Li, Mu, et al. "**Scaling distributed machine learning with the parameter server.**" 11th {USENIX}
+Symposium on Operating Systems Design and Implementation ({OSDI} 14). 2014.
+[[pdf]](https://www.usenix.org/system/files/conference/osdi14/osdi14-paper-li_mu.pdf)
+
+## Scheduling
+
+[1] Bao, Yixin, et al. "**Online Job Scheduling in Distributed Machine Learning Clusters.**" IEEE
+INFOCOM 2018-IEEE Conference on Computer Communications. IEEE, 2018.
+[[pdf]](https://arxiv.org/pdf/1801.00936.pdf)
