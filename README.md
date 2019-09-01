@@ -109,6 +109,10 @@ Units.**" (2019).
 Symposium on Operating Systems Design and Implementation (OSDI 14). 2014.
 [[pdf]](https://www.usenix.org/system/files/conference/osdi14/osdi14-paper-li_mu.pdf)
 
+[2] Jiang, Jiawei, et al. "**Heterogeneity-aware distributed parameter servers.**"
+Proceedings of the 2017 ACM International Conference on Management of Data. ACM, 2017.
+[[pdf]](http://net.pku.edu.cn/~cuibin/Papers/2017%20sigmod.pdf)
+
 ## Scheduling
 
 [1] Bao, Yixin, et al. "**Online Job Scheduling in Distributed Machine Learning Clusters.**" IEEE
