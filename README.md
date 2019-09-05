@@ -118,3 +118,9 @@ Proceedings of the 2017 ACM International Conference on Management of Data. ACM,
 [1] Bao, Yixin, et al. "**Online Job Scheduling in Distributed Machine Learning Clusters.**" IEEE
 INFOCOM 2018-IEEE Conference on Computer Communications. IEEE, 2018.
 [[pdf]](https://arxiv.org/pdf/1801.00936.pdf)
+
+## Synchronization
+
+[1] Zhang, Chengliang, et al. "**Stay Fresh: Speculative Synchronization for Fast Distributed Machine Learning.**"
+2018 IEEE 38th International Conference on Distributed Computing Systems (ICDCS). IEEE, 2018.
+[[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8416283)
