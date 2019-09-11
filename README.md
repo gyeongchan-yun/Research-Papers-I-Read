@@ -124,3 +124,6 @@ INFOCOM 2018-IEEE Conference on Computer Communications. IEEE, 2018.
 [1] Zhang, Chengliang, et al. "**Stay Fresh: Speculative Synchronization for Fast Distributed Machine Learning.**"
 2018 IEEE 38th International Conference on Distributed Computing Systems (ICDCS). IEEE, 2018.
 [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8416283)
+
+[2] Dean, Jeffrey, et al. "**Large Scale Distributed Deep Networks.**" Advances in neural information processing systems (NIPS). 2012.
+[[pdf]](http://papers.nips.cc/paper/4687-large-scale-distributed-deep-networks.pdf)
