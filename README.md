@@ -57,6 +57,12 @@ Proceedings of the 34th International Conference on Machine Learning-Volume 70. 
 
 # System for Deep Learning
 
+## Basic Distributed Training System
+
+[1] Chilimbi, Trishul, et al. "**Project adam: Building an efficient and scalable deep learning training system.**"
+11th USENIX Symposium on Operating Systems Design and Implementation (OSDI 14). 2014.
+[[pdf]](https://www.usenix.org/system/files/conference/osdi14/osdi14-paper-chilimbi.pdf)
+
 ## ML Framework
 
 [1] Abadi, Martín, et al. "**Tensorflow: A system for large-scale machine learning.**" 12th USENIX
