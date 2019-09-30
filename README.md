@@ -119,6 +119,9 @@ Symposium on Operating Systems Design and Implementation (OSDI 14). 2014.
 Proceedings of the 2017 ACM International Conference on Management of Data. ACM, 2017.
 [[pdf]](http://net.pku.edu.cn/~cuibin/Papers/2017%20sigmod.pdf)
 
+[3] Cui, Henggang, et al. "**Geeps: Scalable deep learning on distributed gpus with a gpu-specialized parameter server.**"
+Proceedings of the Eleventh European Conference on Computer Systems (EuroSys). ACM, 2016.
+
 ## Scheduling
 
 [1] Bao, Yixin, et al. "**Online Job Scheduling in Distributed Machine Learning Clusters.**" IEEE
