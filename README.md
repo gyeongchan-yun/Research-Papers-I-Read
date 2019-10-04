@@ -136,3 +136,9 @@ INFOCOM 2018-IEEE Conference on Computer Communications. IEEE, 2018.
 
 [2] Dean, Jeffrey, et al. "**Large Scale Distributed Deep Networks.**" Advances in neural information processing systems (NIPS). 2012.
 [[pdf]](http://papers.nips.cc/paper/4687-large-scale-distributed-deep-networks.pdf)
+
+## Communication
+
+[1] Zhang, Hao, et al. "**Poseidon: An efficient communication architecture for distributed deep learning on GPU clusters.**"
+2017 USENIX Annual Technical Conference (USENIX ATC 17). 2017.
+[[pdf]](https://www.usenix.org/system/files/conference/atc17/atc17-zhang.pdf)
