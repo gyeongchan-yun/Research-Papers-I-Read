@@ -151,3 +151,4 @@ arXiv preprint arXiv:1802.05799 (2018).
 
 [1] Coleman, Cody, et al. "**Dawnbench: An end-to-end deep learning benchmark and competition.**"
 Advances in neural information processing systems (NIPS). 2017.
+[[pdf]](https://ddkang.github.io/papers/dawnbench-nips17.pdf)
