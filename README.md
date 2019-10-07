@@ -146,3 +146,8 @@ INFOCOM 2018-IEEE Conference on Computer Communications. IEEE, 2018.
 [2] Sergeev, Alexander, and Mike Del Balso. "**Horovod: fast and easy distributed deep learning in TensorFlow.**"
 arXiv preprint arXiv:1802.05799 (2018).
 [[pdf]](https://arxiv.org/pdf/1802.05799.pdf)
+
+## Performance Metric
+
+[1] Coleman, Cody, et al. "**Dawnbench: An end-to-end deep learning benchmark and competition.**"
+Advances in neural information processing systems (NIPS). 2017.
