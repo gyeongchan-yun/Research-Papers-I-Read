@@ -147,6 +147,10 @@ INFOCOM 2018-IEEE Conference on Computer Communications. IEEE, 2018.
 arXiv preprint arXiv:1802.05799 (2018).
 [[pdf]](https://arxiv.org/pdf/1802.05799.pdf)
 
+[3] Kim, Soojeong, et al. "**Parallax: Sparsity-aware Data Parallel Training of Deep Neural Networks.**"
+Proceedings of the Fourteenth EuroSys Conference 2019. ACM, 2019.
+[[pdf]](https://spl.snu.ac.kr/wp-content/uploads/2012/07/parallax.pdf)
+
 ## Performance Metric
 
 [1] Coleman, Cody, et al. "**Dawnbench: An end-to-end deep learning benchmark and competition.**"
