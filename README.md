@@ -151,6 +151,10 @@ arXiv preprint arXiv:1802.05799 (2018).
 Proceedings of the Fourteenth EuroSys Conference 2019. ACM, 2019.
 [[pdf]](https://spl.snu.ac.kr/wp-content/uploads/2012/07/parallax.pdf)
 
+[4] Xue, Jilong, et al. "**Fast Distributed Deep Learning over RDMA.**"
+Proceedings of the Fourteenth EuroSys Conference 2019. ACM, 2019.
+[[pdf]](https://readingxtra.github.io/docs/RMDA/eurosys19-xue-jilong.pdf)
+
 ## Performance Metric
 
 [1] Coleman, Cody, et al. "**Dawnbench: An end-to-end deep learning benchmark and competition.**"
