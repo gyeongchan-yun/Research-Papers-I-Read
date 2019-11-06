@@ -77,8 +77,9 @@ distributed systems.**" (2016). [[pdf]](https://arxiv.org/pdf/1603.04467.pdf)
 [1] Huang, Yanping, et al. "**GPipe: Efficient Training of Giant Neural Networks using Pipeline
 Parallelism.**" arXiv preprint arXiv:1811.06965 (2018). [[pdf]](https://arxiv.org/pdf/1811.06965.pdf)
 
-[2] Harlap, Aaron, et al. "**Pipedream: Fast and efficient pipeline parallel dnn training.**" arXiv
-preprint arXiv:1806.03377 (2018). [[pdf]](https://arxiv.org/pdf/1806.03377.pdf)
+[2] Narayanan, Deepak, et al. "**PipeDream: generalized pipeline parallelism for DNN training.**" 
+Proceedings of the 27th ACM Symposium on Operating Systems Principles (SOSP 19). ACM, 2019.
+[[pdf]](https://www.pdl.cmu.edu/PDL-FTP/BigLearning/sosp19-final271.pdf)
 
 [3] Hegde, Vishakh, and Sheema Usmani. "**Parallel and distributed deep learning.**" (2016).
 [[pdf]](https://web.stanford.edu/~rezab/classes/cme323/S16/projects_reports/hedge_usmani.pdf)
