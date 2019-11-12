@@ -106,9 +106,13 @@ IEEE, 2018. [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8599530
 [3] Meng, Chen, et al. "**Training deeper models by GPU memory optimization on TensorFlow.**" Proc. of
 ML Systems Workshop in NIPS. 2017. [[pdf]](http://learningsys.org/nips17/assets/papers/paper_18.pdf)
 
-[4] Li, Chen, et al. "**A Framework for Memory Oversubscription Management in Graphics Processing
-Units.**" (2019).
+[4] Li, Chen, et al. "**A Framework for Memory Oversubscription Management in Graphics Processing Units.**" 
+Proceedings of the 24th International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS). ACM, 2019.
 [[pdf]](https://people.inf.ethz.ch/omutlu/pub/ETC-memory-oversubscription-management-framework-for-GPUs_asplos19.pdf)
+
+[5] Jain, Animesh, et al. "**Gist: Efficient data encoding for deep neural network training.**"
+2018 ACM/IEEE 45th Annual International Symposium on Computer Architecture (ISCA). IEEE, 2018.
+[[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8416872)
 
 ## Parameter Server
 
