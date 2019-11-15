@@ -127,11 +127,14 @@ Proceedings of the 2017 ACM International Conference on Management of Data. ACM,
 [3] Cui, Henggang, et al. "**Geeps: Scalable deep learning on distributed gpus with a gpu-specialized parameter server.**"
 Proceedings of the Eleventh European Conference on Computer Systems (EuroSys). ACM, 2016.
 
-## Scheduling
+## Cluster Scheduling
 
 [1] Bao, Yixin, et al. "**Online Job Scheduling in Distributed Machine Learning Clusters.**" IEEE
 INFOCOM 2018-IEEE Conference on Computer Communications. IEEE, 2018.
 [[pdf]](https://arxiv.org/pdf/1801.00936.pdf)
+
+[2] Xiao, Wencong, et al. "**Gandiva: Introspective cluster scheduling for deep learning.**" 
+13th USENIX Symposium on Operating Systems Design and Implementation (OSDI 18). 2018.
 
 ## Synchronization
 
@@ -165,3 +168,8 @@ Proceedings of the Fourteenth EuroSys Conference 2019. ACM, 2019.
 [1] Coleman, Cody, et al. "**Dawnbench: An end-to-end deep learning benchmark and competition.**"
 Advances in neural information processing systems (NIPS). 2017.
 [[pdf]](https://ddkang.github.io/papers/dawnbench-nips17.pdf)
+
+## Data Partitioning
+
+[1] Wei, Kai, et al. "**How to intelligently distribute training data to multiple compute nodes: Distributed machine learning via submodular partitioning.**" 
+Neural Information Processing Society (NIPS) Workshop, Montreal, Canada. 2015.
