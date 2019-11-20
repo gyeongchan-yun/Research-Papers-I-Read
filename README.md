@@ -163,6 +163,8 @@ Proceedings of the Fourteenth EuroSys Conference 2019. ACM, 2019.
 Proceedings of the Fourteenth EuroSys Conference 2019. ACM, 2019.
 [[pdf]](https://readingxtra.github.io/docs/RMDA/eurosys19-xue-jilong.pdf)
 
+[5] Peng, Yanghua, et al. "**A generic communication scheduler for distributed DNN training acceleration.**" the 27th ACM Symposium on Operating Systems Principles (SOSP 19)
+
 ## Performance Metric
 
 [1] Coleman, Cody, et al. "**Dawnbench: An end-to-end deep learning benchmark and competition.**"
@@ -173,3 +175,7 @@ Advances in neural information processing systems (NIPS). 2017.
 
 [1] Wei, Kai, et al. "**How to intelligently distribute training data to multiple compute nodes: Distributed machine learning via submodular partitioning.**" 
 Neural Information Processing Society (NIPS) Workshop, Montreal, Canada. 2015.
+
+## Code Optimization
+
+[1] Chen, Tianqi, et al. "**TVM: An automated end-to-end optimizing compiler for deep learning.**" 13th USENIX Symposium on Operating Systems Design and Implementation (OSDI 18). 2018.
