@@ -84,6 +84,9 @@ Proceedings of the 27th ACM Symposium on Operating Systems Principles (SOSP 19).
 [3] Hegde, Vishakh, and Sheema Usmani. "**Parallel and distributed deep learning.**" (2016).
 [[pdf]](https://web.stanford.edu/~rezab/classes/cme323/S16/projects_reports/hedge_usmani.pdf)
 
+[4] Jia, Zhihao, Matei Zaharia, and Alex Aiken. "**Beyond data and model parallelism for deep neural networks.**" In proceedings of the conference on Systems and Machine Learning (SysML 2019). 2019.
+[[pdf]](https://www.sysml.cc/doc/2019/16.pdf)
+
 ## Microservice
 
 [1] Crankshaw, Daniel, et al. "**Clipper: A Low-Latency Online Prediction Serving System.**" NSDI. 2017.
