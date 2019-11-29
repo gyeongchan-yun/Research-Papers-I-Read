@@ -84,7 +84,8 @@ Proceedings of the 27th ACM Symposium on Operating Systems Principles (SOSP 19).
 [3] Hegde, Vishakh, and Sheema Usmani. "**Parallel and distributed deep learning.**" (2016).
 [[pdf]](https://web.stanford.edu/~rezab/classes/cme323/S16/projects_reports/hedge_usmani.pdf)
 
-[4] Jia, Zhihao, Matei Zaharia, and Alex Aiken. "**Beyond data and model parallelism for deep neural networks.**" In proceedings of the conference on Systems and Machine Learning (SysML 2019). 2019.
+[4] Jia, Zhihao, Matei Zaharia, and Alex Aiken. "**Beyond data and model parallelism for deep neural networks.**" 
+In proceedings of the conference on Systems and Machine Learning (SysML 2019). 2019.
 [[pdf]](https://www.sysml.cc/doc/2019/16.pdf)
 
 ## Microservice
@@ -129,6 +130,7 @@ Proceedings of the 2017 ACM International Conference on Management of Data. ACM,
 
 [3] Cui, Henggang, et al. "**Geeps: Scalable deep learning on distributed gpus with a gpu-specialized parameter server.**"
 Proceedings of the Eleventh European Conference on Computer Systems (EuroSys). ACM, 2016.
+[[pdf]](https://www.pdl.cmu.edu/PDL-FTP/CloudComputing/GeePS-cui-eurosys16.pdf)
 
 ## Cluster Scheduling
 
@@ -138,6 +140,7 @@ INFOCOM 2018-IEEE Conference on Computer Communications. IEEE, 2018.
 
 [2] Xiao, Wencong, et al. "**Gandiva: Introspective cluster scheduling for deep learning.**" 
 13th USENIX Symposium on Operating Systems Design and Implementation (OSDI 18). 2018.
+[[pdf]](https://www.usenix.org/system/files/osdi18-xiao.pdf)
 
 ## Synchronization
 
@@ -145,7 +148,8 @@ INFOCOM 2018-IEEE Conference on Computer Communications. IEEE, 2018.
 2018 IEEE 38th International Conference on Distributed Computing Systems (ICDCS). IEEE, 2018.
 [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8416283)
 
-[2] Dean, Jeffrey, et al. "**Large Scale Distributed Deep Networks.**" Advances in neural information processing systems (NIPS). 2012.
+[2] Dean, Jeffrey, et al. "**Large Scale Distributed Deep Networks.**" 
+Advances in neural information processing systems (NIPS). 2012.
 [[pdf]](http://papers.nips.cc/paper/4687-large-scale-distributed-deep-networks.pdf)
 
 ## Communication
@@ -166,7 +170,9 @@ Proceedings of the Fourteenth EuroSys Conference 2019. ACM, 2019.
 Proceedings of the Fourteenth EuroSys Conference 2019. ACM, 2019.
 [[pdf]](https://readingxtra.github.io/docs/RMDA/eurosys19-xue-jilong.pdf)
 
-[5] Peng, Yanghua, et al. "**A generic communication scheduler for distributed DNN training acceleration.**" the 27th ACM Symposium on Operating Systems Principles (SOSP 19)
+[5] Peng, Yanghua, et al. "**A generic communication scheduler for distributed DNN training acceleration.**" 
+the 27th ACM Symposium on Operating Systems Principles (SOSP 19)
+[[pdf]](https://i.cs.hku.hk/~cwu/papers/yhpeng-sosp19.pdf)
 
 ## Performance Metric
 
@@ -178,7 +184,22 @@ Advances in neural information processing systems (NIPS). 2017.
 
 [1] Wei, Kai, et al. "**How to intelligently distribute training data to multiple compute nodes: Distributed machine learning via submodular partitioning.**" 
 Neural Information Processing Society (NIPS) Workshop, Montreal, Canada. 2015.
+[[pdf]](http://learningsys.org/papers/LearningSys_2015_paper_16.pdf)
 
 ## Code Optimization
 
-[1] Chen, Tianqi, et al. "**TVM: An automated end-to-end optimizing compiler for deep learning.**" 13th USENIX Symposium on Operating Systems Design and Implementation (OSDI 18). 2018.
+[1] Chen, Tianqi, et al. "**TVM: An automated end-to-end optimizing compiler for deep learning.**" 
+13th USENIX Symposium on Operating Systems Design and Implementation (OSDI 18). 2018.
+[[pdf]](https://www.usenix.org/system/files/osdi18-chen.pdf)
+
+## White-box Testing
+
+[1] Pei, Kexin, et al. "**Deepxplore: Automated whitebox testing of deep learning systems.**" 
+Proceedings of the 26th Symposium on Operating Systems Principles (SOSP 17). ACM, 2017.
+[[pdf]](http://www.cs.columbia.edu/~junfeng/papers/deepxplore-sosp17.pdf)
+
+## Serving
+
+[1] Zhang, Minjia, et al. "**Deepcpu: Serving rnn-based deep learning models 10x faster.**" 
+2018 USENIX Annual Technical Conference (USENIX ATC 18). 2018.
+[[pdf]](https://www.usenix.org/system/files/conference/atc18/atc18-zhang-minjia.pdf)
