@@ -192,11 +192,15 @@ Neural Information Processing Society (NIPS) Workshop, Montreal, Canada. 2015.
 13th USENIX Symposium on Operating Systems Design and Implementation (OSDI 18). 2018.
 [[pdf]](https://www.usenix.org/system/files/osdi18-chen.pdf)
 
-## White-box Testing
+## Model Testing
 
 [1] Pei, Kexin, et al. "**Deepxplore: Automated whitebox testing of deep learning systems.**" 
 Proceedings of the 26th Symposium on Operating Systems Principles (SOSP 17). ACM, 2017.
 [[pdf]](http://www.cs.columbia.edu/~junfeng/papers/deepxplore-sosp17.pdf)
+
+[2] Lee, Yunseong, et al. "**PRETZEL: Opening the Black Box of Machine Learning Prediction Serving Systems.**"
+13th USENIX Symposium on Operating Systems Design and Implementation (OSDI 18). 2018.
+[[pdf]](https://www.usenix.org/system/files/osdi18-lee.pdf)
 
 ## Serving
 
