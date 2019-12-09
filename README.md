@@ -142,7 +142,7 @@ INFOCOM 2018-IEEE Conference on Computer Communications. IEEE, 2018.
 13th USENIX Symposium on Operating Systems Design and Implementation (OSDI 18). 2018.
 [[pdf]](https://www.usenix.org/system/files/osdi18-xiao.pdf)
 
-## Synchronization
+## Synchronization (Convergence)
 
 [1] Zhang, Chengliang, et al. "**Stay Fresh: Speculative Synchronization for Fast Distributed Machine Learning.**"
 2018 IEEE 38th International Conference on Distributed Computing Systems (ICDCS). IEEE, 2018.
@@ -151,6 +151,10 @@ INFOCOM 2018-IEEE Conference on Computer Communications. IEEE, 2018.
 [2] Dean, Jeffrey, et al. "**Large Scale Distributed Deep Networks.**" 
 Advances in neural information processing systems (NIPS). 2012.
 [[pdf]](http://papers.nips.cc/paper/4687-large-scale-distributed-deep-networks.pdf)
+
+[3] Goyal, Priya, et al. "**Accurate, large minibatch sgd: Training imagenet in 1 hour.**" arXiv preprint arXiv:1706.02677 (2017). [[pdf]](https://arxiv.org/pdf/1706.02677.pdf%5B3%5D%20ImageNet)
+
+[4] Bottou, Léon, and Olivier Bousquet. "**The tradeoffs of large scale learning.**" Advances in neural information processing systems (NIPS). 2008. [[pdf]](http://papers.nips.cc/paper/3323-the-tradeoffs-of-large-scale-learning.pdf)
 
 ## Communication
 
