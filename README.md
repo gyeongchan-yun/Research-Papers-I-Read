@@ -132,6 +132,10 @@ Proceedings of the 2017 ACM International Conference on Management of Data. ACM,
 Proceedings of the Eleventh European Conference on Computer Systems (EuroSys). ACM, 2016.
 [[pdf]](https://www.pdl.cmu.edu/PDL-FTP/CloudComputing/GeePS-cui-eurosys16.pdf)
 
+[4] Park, Jay H., et al. "**Accelerated Training for CNN Distributed Deep Learning through Automatic Resource-Aware Layer Placement.**" 
+arXiv preprint arXiv:1901.05803 (2019).
+[[pdf]](https://arxiv.org/pdf/1901.05803.pdf)
+
 ## Cluster Scheduling
 
 [1] Bao, Yixin, et al. "**Online Job Scheduling in Distributed Machine Learning Clusters.**" IEEE
