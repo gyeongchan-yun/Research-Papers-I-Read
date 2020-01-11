@@ -160,6 +160,8 @@ Advances in neural information processing systems (NIPS). 2012.
 
 [4] Bottou, Léon, and Olivier Bousquet. "**The tradeoffs of large scale learning.**" Advances in neural information processing systems (NIPS). 2008. [[pdf]](http://papers.nips.cc/paper/3323-the-tradeoffs-of-large-scale-learning.pdf)
 
+[5] Lian, Xiangru, et al. "**Asynchronous decentralized parallel stochastic gradient descent.**" arXiv preprint arXiv:1710.06952 (2017).
+
 ## Communication
 
 [1] Zhang, Hao, et al. "**Poseidon: An efficient communication architecture for distributed deep learning on GPU clusters.**"
