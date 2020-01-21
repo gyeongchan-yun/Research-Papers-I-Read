@@ -217,3 +217,8 @@ Proceedings of the 26th Symposium on Operating Systems Principles (SOSP 17). ACM
 [1] Zhang, Minjia, et al. "**Deepcpu: Serving rnn-based deep learning models 10x faster.**" 
 2018 USENIX Annual Technical Conference (USENIX ATC 18). 2018.
 [[pdf]](https://www.usenix.org/system/files/conference/atc18/atc18-zhang-minjia.pdf)
+
+## Federated Learning
+
+[1] Bonawitz, Keith, et al. "**Towards federated learning at scale: System design.**"
+arXiv preprint arXiv:1902.01046 (2019). [[pdf]](https://arxiv.org/pdf/1902.01046.pdf)
