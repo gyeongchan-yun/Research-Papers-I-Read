@@ -221,4 +221,9 @@ Proceedings of the 26th Symposium on Operating Systems Principles (SOSP 17). ACM
 ## Federated Learning
 
 [1] Bonawitz, Keith, et al. "**Towards federated learning at scale: System design.**"
-arXiv preprint arXiv:1902.01046 (2019). [[pdf]](https://arxiv.org/pdf/1902.01046.pdf)
+arXiv preprint arXiv:1902.01046 (2019). 
+[[pdf]](https://arxiv.org/pdf/1902.01046.pdf)
+
+[2] McMahan, H. Brendan, et al. "**Communication-efficient learning of deep networks from decentralized data.**" 
+arXiv preprint arXiv:1602.05629 (2016).
+[[pdf]](https://arxiv.org/pdf/1602.05629.pdf)
