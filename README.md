@@ -227,3 +227,17 @@ arXiv preprint arXiv:1902.01046 (2019).
 [2] McMahan, H. Brendan, et al. "**Communication-efficient learning of deep networks from decentralized data.**" 
 arXiv preprint arXiv:1602.05629 (2016).
 [[pdf]](https://arxiv.org/pdf/1602.05629.pdf)
+
+## Compression (Pruning, Quantization, Precision)
+
+[1] Han, Song, Huizi Mao, and William J. Dally. "**Deep compression: Compressing deep neural networks with pruning, trained quantization and huffman coding.**" arXiv preprint arXiv:1510.00149 (2015).
+
+[2] Alistarh, Dan, et al. "**QSGD: Communication-efficient SGD via gradient quantization and encoding.**" Advances in Neural Information Processing Systems. 2017. 
+
+[3] Zhou, Aojun, et al. "**Incremental network quantization: Towards lossless cnns with low-precision weights.**" arXiv preprint arXiv:1702.03044 (2017).
+
+[4] Wen, Wei, et al. "**Learning structured sparsity in deep neural networks.**" Advances in neural information processing systems. 2016.
+
+[5] Micikevicius, Paulius, et al. "**Mixed precision training.**" arXiv preprint arXiv:1710.03740 (2017).
+
+[6] Luo, Jian-Hao, and Jianxin Wu. "**Autopruner: An end-to-end trainable filter pruning method for efficient deep model inference.**" arXiv preprint arXiv:1805.08941 (2018).
