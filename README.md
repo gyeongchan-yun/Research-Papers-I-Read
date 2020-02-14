@@ -250,3 +250,8 @@ Advances in neural information processing systems. 2016.
 
 [6] Luo, Jian-Hao, and Jianxin Wu. "**Autopruner: An end-to-end trainable filter pruning method for efficient deep model inference.**" arXiv preprint arXiv:1805.08941 (2018).
 [[pdf]](https://arxiv.org/pdf/1805.08941.pdf)
+
+## Multi-task Learning
+
+[1] Liu, Sulin, Sinno Jialin Pan, and Qirong Ho. "**Distributed multi-task relationship learning.**" Proceedings of the 23rd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining. 2017.
+[[pdf]](https://dl.acm.org/doi/pdf/10.1145/3097983.3098136)
