@@ -230,14 +230,23 @@ arXiv preprint arXiv:1602.05629 (2016).
 
 ## Compression (Pruning, Quantization, Precision)
 
-[1] Han, Song, Huizi Mao, and William J. Dally. "**Deep compression: Compressing deep neural networks with pruning, trained quantization and huffman coding.**" arXiv preprint arXiv:1510.00149 (2015).
+[1] Han, Song, Huizi Mao, and William J. Dally. "**Deep compression: Compressing deep neural networks with pruning, trained quantization and huffman coding.**" 
+arXiv preprint arXiv:1510.00149 (2015).
+[[pdf]](https://arxiv.org/pdf/1510.00149)
 
-[2] Alistarh, Dan, et al. "**QSGD: Communication-efficient SGD via gradient quantization and encoding.**" Advances in Neural Information Processing Systems. 2017. 
+[2] Alistarh, Dan, et al. "**QSGD: Communication-efficient SGD via gradient quantization and encoding.**"
+Advances in Neural Information Processing Systems. 2017. 
+[[pdf]](https://papers.nips.cc/paper/6768-qsgd-communication-efficient-sgd-via-gradient-quantization-and-encoding.pdf)
 
 [3] Zhou, Aojun, et al. "**Incremental network quantization: Towards lossless cnns with low-precision weights.**" arXiv preprint arXiv:1702.03044 (2017).
+[[pdf]](https://arxiv.org/pdf/1702.03044.pdf)
 
-[4] Wen, Wei, et al. "**Learning structured sparsity in deep neural networks.**" Advances in neural information processing systems. 2016.
+[4] Wen, Wei, et al. "**Learning structured sparsity in deep neural networks.**" 
+Advances in neural information processing systems. 2016.
+[[pdf]](https://papers.nips.cc/paper/6504-learning-structured-sparsity-in-deep-neural-networks.pdf)
 
 [5] Micikevicius, Paulius, et al. "**Mixed precision training.**" arXiv preprint arXiv:1710.03740 (2017).
+[[pdf]](https://arxiv.org/pdf/1710.03740.pdf%EF%BC%89%E3%80%82)
 
 [6] Luo, Jian-Hao, and Jianxin Wu. "**Autopruner: An end-to-end trainable filter pruning method for efficient deep model inference.**" arXiv preprint arXiv:1805.08941 (2018).
+[[pdf]](https://arxiv.org/pdf/1805.08941.pdf)
