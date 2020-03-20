@@ -63,6 +63,11 @@ Proceedings of the 34th International Conference on Machine Learning-Volume 70. 
 11th USENIX Symposium on Operating Systems Design and Implementation (OSDI 14). 2014.
 [[pdf]](https://www.usenix.org/system/files/conference/osdi14/osdi14-paper-chilimbi.pdf)
 
+[2] Keuper, Janis, and Franz-Josef Preundt. 
+"**Distributed training of deep neural networks: Theoretical and practical limits of parallel scalability.**" 
+2016 2nd Workshop on Machine Learning in HPC Environments (MLHPC). IEEE, 2016.
+[[pdf]](https://arxiv.org/pdf/1609.06870.pdf)
+
 ## ML Framework
 
 [1] Abadi, Martín, et al. "**Tensorflow: A system for large-scale machine learning.**" 12th USENIX
