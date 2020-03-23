@@ -165,8 +165,6 @@ Advances in neural information processing systems (NIPS). 2012.
 
 [4] Bottou, Léon, and Olivier Bousquet. "**The tradeoffs of large scale learning.**" Advances in neural information processing systems (NIPS). 2008. [[pdf]](http://papers.nips.cc/paper/3323-the-tradeoffs-of-large-scale-learning.pdf)
 
-[5] Lian, Xiangru, et al. "**Asynchronous decentralized parallel stochastic gradient descent.**" arXiv preprint arXiv:1710.06952 (2017).
-
 ## Communication
 
 [1] Zhang, Hao, et al. "**Poseidon: An efficient communication architecture for distributed deep learning on GPU clusters.**"
@@ -258,5 +256,20 @@ Advances in neural information processing systems. 2016.
 
 ## Multi-task Learning
 
-[1] Liu, Sulin, Sinno Jialin Pan, and Qirong Ho. "**Distributed multi-task relationship learning.**" Proceedings of the 23rd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining. 2017.
+[1] Liu, Sulin, Sinno Jialin Pan, and Qirong Ho. "**Distributed multi-task relationship learning.**" 
+Proceedings of the 23rd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining. 2017.
 [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3097983.3098136)
+
+## Decentralized Training
+
+[1] Lian, Xiangru, et al. "**Asynchronous decentralized parallel stochastic gradient descent.**" 
+arXiv preprint arXiv:1710.06952 (2017).
+[[pdf]](http://proceedings.mlr.press/v80/lian18a/lian18a.pdf)
+
+[2] Lian, Xiangru, et al. "**Can decentralized algorithms outperform centralized algorithms? a case study for decentralized parallel stochastic gradient descent.**" 
+Advances in Neural Information Processing Systems (NIPS). 2017.
+[[pdf]](https://papers.nips.cc/paper/7117-can-decentralized-algorithms-outperform-centralized-algorithms-a-case-study-for-decentralized-parallel-stochastic-gradient-descent.pdf)
+
+[3] Luo, Qinyi, et al. "**Hop: Heterogeneity-aware decentralized training.**" 
+Proceedings of the 24th International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS). 2019.
+[[pdf]](http://alchem.usc.edu/~qinyi/download/hop.pdf)
