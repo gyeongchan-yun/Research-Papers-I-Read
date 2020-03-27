@@ -165,6 +165,9 @@ Advances in neural information processing systems (NIPS). 2012.
 
 [4] Bottou, Léon, and Olivier Bousquet. "**The tradeoffs of large scale learning.**" Advances in neural information processing systems (NIPS). 2008. [[pdf]](http://papers.nips.cc/paper/3323-the-tradeoffs-of-large-scale-learning.pdf)
 
+[5] Chen, Jianmin, et al. "**Revisiting distributed synchronous SGD.**" arXiv preprint arXiv:1604.00981 (2016).
+[[pdf]](https://arxiv.org/pdf/1604.00981.pdf)
+
 ## Communication
 
 [1] Zhang, Hao, et al. "**Poseidon: An efficient communication architecture for distributed deep learning on GPU clusters.**"
