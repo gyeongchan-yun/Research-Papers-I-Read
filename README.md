@@ -273,3 +273,7 @@ Advances in Neural Information Processing Systems (NIPS). 2017.
 [3] Luo, Qinyi, et al. "**Hop: Heterogeneity-aware decentralized training.**" 
 Proceedings of the 24th International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS). 2019.
 [[pdf]](http://alchem.usc.edu/~qinyi/download/hop.pdf)
+
+[4] Kadav, Asim, and Erik Kruus. "**ASAP: asynchronous approximate data-parallel computation.**"
+arXiv preprint arXiv:1612.08608 (2016).
+[[pdf]](https://arxiv.org/pdf/1612.08608.pdf)
