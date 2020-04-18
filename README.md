@@ -141,6 +141,10 @@ Proceedings of the Eleventh European Conference on Computer Systems (EuroSys). A
 arXiv preprint arXiv:1901.05803 (2019).
 [[pdf]](https://arxiv.org/pdf/1901.05803.pdf)
 
+[5] Chen, Chen, et al. "**Fast distributed deep learning via worker-adaptive batch sizing.**" 
+Proceedings of the ACM Symposium on Cloud Computing (SoCC). 2018.
+[[pdf]](https://dl.acm.org/doi/pdf/10.1145/3267809.3275463)
+
 ## Cluster Scheduling
 
 [1] Bao, Yixin, et al. "**Online Job Scheduling in Distributed Machine Learning Clusters.**" IEEE
