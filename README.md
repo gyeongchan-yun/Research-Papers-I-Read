@@ -284,3 +284,7 @@ Proceedings of the 24th International Conference on Architectural Support for Pr
 [4] Kadav, Asim, and Erik Kruus. "**ASAP: asynchronous approximate data-parallel computation.**"
 arXiv preprint arXiv:1612.08608 (2016).
 [[pdf]](https://arxiv.org/pdf/1612.08608.pdf)
+
+[5] Luo, Qinyi, et al. "**Heterogeneity-Aware Asynchronous Decentralized Training.**" 
+arXiv preprint arXiv:1909.08029 (2019).
+[[pdf]](https://arxiv.org/pdf/1909.08029.pdf)
