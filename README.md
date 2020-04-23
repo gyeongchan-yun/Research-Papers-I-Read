@@ -289,3 +289,10 @@ arXiv preprint arXiv:1612.08608 (2016).
 Proceedings of the 24th ASPLOS. 2020.
 [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3373376.3378499)
 
+# System for Reinforcement Learning
+
+## Parallel Method
+
+[1] Mnih, Volodymyr, et al. "**Asynchronous methods for deep reinforcement learning.**" ICML. 2016.
+
+[2] Nair, Arun, et al. "**Massively parallel methods for deep reinforcement learning.**" arXiv preprint arXiv:1507.04296 (2015).
