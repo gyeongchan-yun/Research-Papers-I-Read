@@ -194,11 +194,14 @@ Proceedings of the Fourteenth EuroSys Conference 2019. ACM, 2019.
 the 27th ACM Symposium on Operating Systems Principles (SOSP 19)
 [[pdf]](https://i.cs.hku.hk/~cwu/papers/yhpeng-sosp19.pdf)
 
-## Performance Metric
+## Performance Metric (Benchmark)
 
 [1] Coleman, Cody, et al. "**Dawnbench: An end-to-end deep learning benchmark and competition.**"
 Advances in neural information processing systems (NIPS). 2017.
 [[pdf]](https://ddkang.github.io/papers/dawnbench-nips17.pdf)
+
+[2] Mattson, Peter, et al. "**Mlperf training benchmark.**" arXiv preprint arXiv:1910.01500 (2019).
+[[pdf]](https://arxiv.org/pdf/1910.01500.pdf)
 
 ## Data Partitioning
 
