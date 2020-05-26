@@ -295,6 +295,11 @@ arXiv preprint arXiv:1612.08608 (2016).
 Proceedings of the 24th ASPLOS. 2020.
 [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3373376.3378499)
 
+## Hyper-parameter Optimization
+
+[1] Ahnjae Shin, et al. "**Stage-based hyper-parameter optimization for deep learning**" Systems for ML Workshop at NeurIPS 2019.
+[[pdf]](https://spl.snu.ac.kr/wp-content/uploads/2012/07/hippo.pdf)
+
 # System for Reinforcement Learning
 
 ## Parallel Method
