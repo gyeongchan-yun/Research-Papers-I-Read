@@ -300,6 +300,9 @@ Proceedings of the 24th ASPLOS. 2020.
 [1] Ahnjae Shin, et al. "**Stage-based hyper-parameter optimization for deep learning**" Systems for ML Workshop at NeurIPS 2019.
 [[pdf]](https://spl.snu.ac.kr/wp-content/uploads/2012/07/hippo.pdf)
 
+[2] Smith, Samuel L., et al. "**Don't decay the learning rate, increase the batch size.**" ICLR. 2018.
+[[pdf]](https://arxiv.org/pdf/1711.00489.pdf?source=post_page---------------------------)
+
 # System for Reinforcement Learning
 
 ## Parallel Method
