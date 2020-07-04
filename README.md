@@ -79,8 +79,8 @@ distributed systems.**" (2016). [[pdf]](https://arxiv.org/pdf/1603.04467.pdf)
 
 ## Parallelism
 
-[1] Huang, Yanping, et al. "**GPipe: Efficient Training of Giant Neural Networks using Pipeline
-Parallelism.**" arXiv preprint arXiv:1811.06965 (2018). [[pdf]](https://arxiv.org/pdf/1811.06965.pdf)
+[1] Huang, Yanping, et al. "**Gpipe: Efficient training of giant neural networks using pipeline parallelism.**" Advances in neural information processing systems. 2019.
+[[pdf]](https://papers.nips.cc/paper/8305-gpipe-efficient-training-of-giant-neural-networks-using-pipeline-parallelism.pdf)
 
 [2] Narayanan, Deepak, et al. "**PipeDream: generalized pipeline parallelism for DNN training.**" 
 Proceedings of the 27th ACM Symposium on Operating Systems Principles (SOSP 19). ACM, 2019.
