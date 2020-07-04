@@ -309,6 +309,10 @@ Proceedings of the 24th ASPLOS. 2020.
 MLSys 2020.
 [[pdf]](https://proceedings.mlsys.org/static/paper_files/mlsys/2020/98-Paper.pdf)
 
+[2] Or, Andrew, Haoyu Zhang, and Michael J. Freedman. "**Resource Elasticity in Distributed Deep Learning.**"
+MLSys 2020.
+[[pdf]](https://proceedings.mlsys.org/static/paper_files/mlsys/2020/168-Paper.pdf)
+
 # System for Reinforcement Learning
 
 ## Parallel Method
