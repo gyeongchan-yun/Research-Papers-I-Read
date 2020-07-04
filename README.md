@@ -303,13 +303,18 @@ Proceedings of the 24th ASPLOS. 2020.
 [2] Smith, Samuel L., et al. "**Don't decay the learning rate, increase the batch size.**" ICLR. 2018.
 [[pdf]](https://arxiv.org/pdf/1711.00489.pdf?source=post_page---------------------------)
 
-## Resource Management
+## Ensemble Training
 
-[1] Guan, Hui, et al. "**FLEET: Flexible Efficient Ensemble Training for Heterogeneous Deep Neural Networks.**"
-MLSys 2020.
+[1] Pittman, Randall, et al. "**Exploring flexible communications for streamlining DNN ensemble training pipelines.**" 
+SC 18: International Conference for High Performance Computing, Networking, Storage and Analysis. IEEE, 2018.
+[[pdf]](https://repository.lib.ncsu.edu/bitstream/handle/1840.20/35263/etd.pdf?sequence=1&isAllowed=y)
+
+[2] Guan, Hui, et al. "**FLEET: Flexible Efficient Ensemble Training for Heterogeneous Deep Neural Networks.**" MLSys 2020.
 [[pdf]](https://proceedings.mlsys.org/static/paper_files/mlsys/2020/98-Paper.pdf)
 
-[2] Or, Andrew, Haoyu Zhang, and Michael J. Freedman. "**Resource Elasticity in Distributed Deep Learning.**"
+## Resource Management
+
+[1] Or, Andrew, Haoyu Zhang, and Michael J. Freedman. "**Resource Elasticity in Distributed Deep Learning.**"
 MLSys 2020.
 [[pdf]](https://proceedings.mlsys.org/static/paper_files/mlsys/2020/168-Paper.pdf)
 
