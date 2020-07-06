@@ -158,6 +158,9 @@ INFOCOM 2018-IEEE Conference on Computer Communications. IEEE, 2018.
 [3] Chaudhary, Shubham, et al. "**Balancing efficiency and fairness in heterogeneous GPU clusters for deep learning.**" Proceedings of the Fifteenth European Conference on Computer Systems (Eurosys 20). 2020.
 [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3342195.3387555)
 
+[4] Peng, Yanghua, et al. "**Optimus: an efficient dynamic resource scheduler for deep learning clusters.**" Proceedings of the 13th EuroSys Conference. 2018.
+[[pdf]](https://dl.acm.org/doi/pdf/10.1145/3190508.3190517)
+
 ## Synchronization (Convergence)
 
 [1] Zhang, Chengliang, et al. "**Stay Fresh: Speculative Synchronization for Fast Distributed Machine Learning.**"
