@@ -93,6 +93,9 @@ Proceedings of the 27th ACM Symposium on Operating Systems Principles (SOSP 19).
 In proceedings of the conference on Systems and Machine Learning (SysML 2019). 2019.
 [[pdf]](https://www.sysml.cc/doc/2019/16.pdf)
 
+[5] Ono, Junya, Masao Utiyama, and Eiichiro Sumita. "**Hybrid Data-Model Parallel Training for Sequence-to-Sequence Recurrent Neural Network Machine Translation.**" arXiv preprint arXiv:1909.00562 (2019).
+[[pdf]](https://arxiv.org/pdf/1909.00562.pdf)
+
 ## Microservice
 
 [1] Crankshaw, Daniel, et al. "**Clipper: A Low-Latency Online Prediction Serving System.**" NSDI. 2017.
