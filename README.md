@@ -126,6 +126,9 @@ Proceedings of the 24th International Conference on Architectural Support for Pr
 2018 ACM/IEEE 45th Annual International Symposium on Computer Architecture (ISCA). IEEE, 2018.
 [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8416872)
 
+[6] Yu, Peifeng, and Mosharaf Chowdhury. "**Salus: Fine-grained gpu sharing primitives for deep learning applications.**" MLSys 2020.
+[[pdf]](https://www.mosharaf.com/wp-content/uploads/salus-mlsys20.pdf)
+
 ## Parameter Server
 
 [1] Li, Mu, et al. "**Scaling distributed machine learning with the parameter server.**" 11th USENIX
@@ -163,6 +166,10 @@ INFOCOM 2018-IEEE Conference on Computer Communications. IEEE, 2018.
 
 [4] Peng, Yanghua, et al. "**Optimus: an efficient dynamic resource scheduler for deep learning clusters.**" Proceedings of the 13th EuroSys Conference. 2018.
 [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3190508.3190517)
+
+[5] Gu, Juncheng, et al. "**Tiresias: A GPU cluster manager for distributed deep learning.**" 
+16th USENIX Symposium on Networked Systems Design and Implementation (NSDI 19). 2019.
+[[pdf]](https://www.usenix.org/system/files/nsdi19-gu.pdf)
 
 ## Synchronization (Convergence)
 
