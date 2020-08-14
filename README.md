@@ -174,6 +174,10 @@ INFOCOM 2018-IEEE Conference on Computer Communications. IEEE, 2018.
 [6] Le, Tan N., et al. "**AlloX: compute allocation in hybrid clusters.**" Proceedings of the 15th European Conference on Computer Systems (Eurosys 20). 2020.
 [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3342195.3387547)
 
+[7] Han, Jingoo, et al. "**MARBLE: A Multi-GPU Aware Job Scheduler for Deep Learning on HPC Systems.**" 
+2020 20th IEEE/ACM International Symposium on Cluster, Cloud and Internet Computing (CCGRID). IEEE, 2020.
+[[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9139710)
+
 ## Synchronization (Convergence)
 
 [1] Zhang, Chengliang, et al. "**Stay Fresh: Speculative Synchronization for Fast Distributed Machine Learning.**"
