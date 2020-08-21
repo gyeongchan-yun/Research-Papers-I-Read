@@ -126,7 +126,8 @@ Proceedings of the 24th International Conference on Architectural Support for Pr
 2018 ACM/IEEE 45th Annual International Symposium on Computer Architecture (ISCA). IEEE, 2018.
 [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8416872)
 
-[6] Yu, Peifeng, and Mosharaf Chowdhury. "**Salus: Fine-grained gpu sharing primitives for deep learning applications.**" MLSys 2020.
+[6] Yu, Peifeng, and Mosharaf Chowdhury. "**Salus: Fine-grained gpu sharing primitives for deep learning applications.**" 
+Proceedings of Machine Learning and Systems 2020 (MLSys 2020).
 [[pdf]](https://www.mosharaf.com/wp-content/uploads/salus-mlsys20.pdf)
 
 ## Parameter Server
@@ -329,14 +330,21 @@ Proceedings of the 24th ASPLOS. 2020.
 SC 18: International Conference for High Performance Computing, Networking, Storage and Analysis. IEEE, 2018.
 [[pdf]](https://repository.lib.ncsu.edu/bitstream/handle/1840.20/35263/etd.pdf?sequence=1&isAllowed=y)
 
-[2] Guan, Hui, et al. "**FLEET: Flexible Efficient Ensemble Training for Heterogeneous Deep Neural Networks.**" MLSys 2020.
+[2] Guan, Hui, et al. "**FLEET: Flexible Efficient Ensemble Training for Heterogeneous Deep Neural Networks.**" 
+Proceedings of Machine Learning and Systems 2020 (MLSys 2020).
 [[pdf]](https://proceedings.mlsys.org/static/paper_files/mlsys/2020/98-Paper.pdf)
 
 ## Resource Management
 
 [1] Or, Andrew, Haoyu Zhang, and Michael J. Freedman. "**Resource Elasticity in Distributed Deep Learning.**"
-MLSys 2020.
+Proceedings of Machine Learning and Systems 2020 (MLSys 2020).
 [[pdf]](https://proceedings.mlsys.org/static/paper_files/mlsys/2020/168-Paper.pdf)
+
+## Storage
+
+[1] Eisenman, Assaf, et al. "**Bandana: Using non-volatile memory for storing deep learning models.**"
+Proceedings of Machine Learning and Systems 2019 (MLSys 2019).
+[[pdf]](https://proceedings.mlsys.org/book/2019/file/34173cb38f07f89ddbebc2ac9128303f-Paper.pdf)
 
 # System for Reinforcement Learning
 
