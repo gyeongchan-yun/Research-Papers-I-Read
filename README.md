@@ -324,6 +324,14 @@ Proceedings of the 24th ASPLOS. 2020.
 [2] Smith, Samuel L., et al. "**Don't decay the learning rate, increase the batch size.**" ICLR. 2018.
 [[pdf]](https://arxiv.org/pdf/1711.00489.pdf?source=post_page---------------------------)
 
+[3] Li, et al. "**A System for Massively Parallel Hyperparameter Tuning**"
+Proceedings of Machine Learning and Systems 2020 (MLSys 2020).
+[[pdf]](https://proceedings.mlsys.org/paper/2020/file/f4b9ec30ad9f68f89b29639786cb62ef-Paper.pdf)
+
+[4] Falkner, Stefan, Aaron Klein, and Frank Hutter. 
+"**BOHB: Robust and efficient hyperparameter optimization at scale.**" Proceedings of ICML 2018.
+[[pdf]](http://proceedings.mlr.press/v80/falkner18a/falkner18a.pdf)
+
 ## Ensemble Training
 
 [1] Pittman, Randall, et al. "**Exploring flexible communications for streamlining DNN ensemble training pipelines.**" 
