@@ -332,6 +332,18 @@ Proceedings of Machine Learning and Systems 2020 (MLSys 2020).
 "**BOHB: Robust and efficient hyperparameter optimization at scale.**" Proceedings of ICML 2018.
 [[pdf]](http://proceedings.mlr.press/v80/falkner18a/falkner18a.pdf)
 
+[5] Shin, Ahnjae, et al. "**Hippo: Taming Hyper-parameter Optimization of Deep Learning with Stage Trees.**" 
+arXiv preprint arXiv:2006.11972 (2020).
+[[pdf]](https://arxiv.org/pdf/2006.11972.pdf)
+
+[6] Liaw, Richard, et al. "**Tune: A research platform for distributed model selection and training.**" 
+ICML AutoML workshop 2018.
+[[pdf]](https://arxiv.org/pdf/1807.05118.pdf)
+
+[7] Golovin, Daniel, et al. "**Google vizier: A service for black-box optimization.**" 
+Proceedings of the 23rd ACM SIGKDD international conference on knowledge discovery and data mining. 2017.
+[[pdf]](https://dl.acm.org/doi/pdf/10.1145/3097983.3098043)
+
 ## Ensemble Training
 
 [1] Pittman, Randall, et al. "**Exploring flexible communications for streamlining DNN ensemble training pipelines.**" 
