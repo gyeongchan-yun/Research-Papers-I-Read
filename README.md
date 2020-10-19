@@ -96,6 +96,10 @@ In proceedings of the conference on Systems and Machine Learning (SysML 2019). 2
 [5] Ono, Junya, Masao Utiyama, and Eiichiro Sumita. "**Hybrid Data-Model Parallel Training for Sequence-to-Sequence Recurrent Neural Network Machine Translation.**" arXiv preprint arXiv:1909.00562 (2019).
 [[pdf]](https://arxiv.org/pdf/1909.00562.pdf)
 
+[6] Li, Youjie, et al. "**Pipe-sgd: A decentralized pipelined sgd framework for distributed deep net training.**" 
+Advances in Neural Information Processing Systems (NIPS). 2018.
+[[pdf]](https://papers.nips.cc/paper/8028-pipe-sgd-a-decentralized-pipelined-sgd-framework-for-distributed-deep-net-training.pdf)
+
 ## Microservice
 
 [1] Crankshaw, Daniel, et al. "**Clipper: A Low-Latency Online Prediction Serving System.**" NSDI. 2017.
