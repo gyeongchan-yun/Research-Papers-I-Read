@@ -183,6 +183,10 @@ INFOCOM 2018-IEEE Conference on Computer Communications. IEEE, 2018.
 2020 20th IEEE/ACM International Symposium on Cluster, Cloud and Internet Computing (CCGRID). IEEE, 2020.
 [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9139710)
 
+[8] Xiao, Wencong, et al. "**AntMan: Dynamic Scaling on GPU Clusters for Deep Learning.**"
+14th USENIX Symposium on Operating Systems Design and Implementation (OSDI 20). 2020.
+[[pdf]](https://www.usenix.org/system/files/osdi20-xiao.pdf)
+
 ## Synchronization (Convergence)
 
 [1] Zhang, Chengliang, et al. "**Stay Fresh: Speculative Synchronization for Fast Distributed Machine Learning.**"
@@ -363,6 +367,12 @@ Proceedings of Machine Learning and Systems 2020 (MLSys 2020).
 [1] Or, Andrew, Haoyu Zhang, and Michael J. Freedman. "**Resource Elasticity in Distributed Deep Learning.**"
 Proceedings of Machine Learning and Systems 2020 (MLSys 2020).
 [[pdf]](https://proceedings.mlsys.org/static/paper_files/mlsys/2020/168-Paper.pdf)
+
+## Adaptive Training
+
+[1] Mai, Luo, et al. "**KungFu: Making Training in Distributed Machine Learning Adaptive.**" 
+14th USENIX Symposium on Operating Systems Design and Implementation (OSDI 20). 2020.
+[[pdf]](https://luomai.github.io/publication/2020-osdi-kungfu/2020-osdi-kungfu.pdf)
 
 ## Storage
 
