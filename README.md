@@ -380,6 +380,15 @@ Proceedings of Machine Learning and Systems 2020 (MLSys 2020).
 Proceedings of Machine Learning and Systems 2019 (MLSys 2019).
 [[pdf]](https://proceedings.mlsys.org/book/2019/file/34173cb38f07f89ddbebc2ac9128303f-Paper.pdf)
 
+[2] Kumar, Abhishek Vijaya, and Muthian Sivathanu. "**Quiver: An informed storage cache for Deep Learning.**" 18th USENIX Conference on File and Storage Technologies (FAST 20). 2020.
+[[pdf]](https://www.usenix.org/system/files/fast20-kumar.pdf)
+
+## Input Pipeline
+
+[1] Zhu, Yue, et al. "**Entropy-aware I/O pipelining for large-scale deep learning on HPC systems.**" 
+2018 IEEE 26th International Symposium on Modeling, Analysis, and Simulation of Computer and Telecommunication Systems (MASCOTS). IEEE, 2018.
+[[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8526881)
+
 # System for Reinforcement Learning
 
 ## Parallel Method
