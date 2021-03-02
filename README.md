@@ -55,6 +55,9 @@ High Performance Computer Architecture (HPCA), 2017 IEEE International Symposium
 Proceedings of the 34th International Conference on Machine Learning-Volume 70. JMLR. org, 2017.
 [[pdf]](https://arxiv.org/pdf/1706.04972.pdf)
 
+[6] Oh, Jisun, and Yoonhee Kim. "**Job placement using reinforcement learning in GPU virtualization environment.**" Cluster Computing (2020): 1-16.)
+[[pdf]](https://link.springer.com/article/10.1007/s10586-019-03044-7)
+
 # System for Deep Learning
 
 ## Basic Distributed Training System
