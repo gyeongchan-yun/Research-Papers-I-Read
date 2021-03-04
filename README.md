@@ -189,6 +189,12 @@ INFOCOM 2018-IEEE Conference on Computer Communications. IEEE, 2018.
 [8] Xiao, Wencong, et al. "**AntMan: Dynamic Scaling on GPU Clusters for Deep Learning.**"
 14th USENIX Symposium on Operating Systems Design and Implementation (OSDI 20). 2020.
 [[pdf]](https://www.usenix.org/system/files/osdi20-xiao.pdf)
+[[code]](https://github.com/alibaba/GPU-scheduler-for-deep-learning)
+
+[9] Narayanan, Deepak, et al. "**Heterogeneity-Aware Cluster Scheduling Policies for Deep Learning Workloads.**"
+14th USENIX Symposium on Operating Systems Design and Implementation (OSDI 20). 2020.
+[[pdf]](https://www.usenix.org/system/files/osdi20-narayanan_deepak.pdf)
+[[code]](https://github.com/stanford-futuredata/gavel)
 
 ## Synchronization (Convergence)
 
