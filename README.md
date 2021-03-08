@@ -383,6 +383,11 @@ Proceedings of Machine Learning and Systems 2020 (MLSys 2020).
 14th USENIX Symposium on Operating Systems Design and Implementation (OSDI 20). 2020.
 [[pdf]](https://luomai.github.io/publication/2020-osdi-kungfu/2020-osdi-kungfu.pdf)
 
+[2] Yi, Xiaodong, et al. "**Optimizing distributed training deployment in heterogeneous GPU clusters.**"
+Proceedings of the 16th International Conference on emerging Networking EXperiments and Technologies (CoNEXT 20). 2020.
+[[pdf]](https://dl.acm.org/doi/pdf/10.1145/3386367.3432728)
+[[code]](https://github.com/eval-submissions/HeteroG)
+
 ## Storage
 
 [1] Eisenman, Assaf, et al. "**Bandana: Using non-volatile memory for storing deep learning models.**"
