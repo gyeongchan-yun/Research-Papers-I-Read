@@ -397,6 +397,11 @@ Proceedings of Machine Learning and Systems 2019 (MLSys 2019).
 [2] Kumar, Abhishek Vijaya, and Muthian Sivathanu. "**Quiver: An informed storage cache for Deep Learning.**" 18th USENIX Conference on File and Storage Technologies (FAST 20). 2020.
 [[pdf]](https://www.usenix.org/system/files/fast20-kumar.pdf)
 
+[3] Mohan, Jayashree, et al. "**Analyzing and Mitigating Data Stalls in DNN Training.**"
+Proceedings of VLDB Endowment 2021.
+[[pdf]](https://vldb.org/pvldb/vol14/p771-mohan.pdf)
+[[code]](https://github.com/msr-fiddle/CoorDL)
+
 ## Input Pipeline
 
 [1] Zhu, Yue, et al. "**Entropy-aware I/O pipelining for large-scale deep learning on HPC systems.**" 
