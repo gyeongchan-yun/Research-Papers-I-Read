@@ -140,6 +140,10 @@ Proceedings of Machine Learning and Systems 2020 (MLSys 2020).
 [[pdf]](https://www.mosharaf.com/wp-content/uploads/salus-mlsys20.pdf)
 [[code]](https://github.com/SymbioticLab/Salus)
 
+[7] Narayanan, Deepak, et al. "**Memory-efficient pipeline-parallel dnn training.**"
+arXiv preprint arXiv:2006.09503 (2020).
+[[pdf]](https://arxiv.org/pdf/2006.09503v1.pdf)
+
 ## Parameter Server
 
 [1] Li, Mu, et al. "**Scaling distributed machine learning with the parameter server.**" 11th USENIX
@@ -200,6 +204,11 @@ INFOCOM 2018-IEEE Conference on Computer Communications. IEEE, 2018.
 14th USENIX Symposium on Operating Systems Design and Implementation (OSDI 20). 2020.
 [[pdf]](https://www.usenix.org/system/files/osdi20-narayanan_deepak.pdf)
 [[code]](https://github.com/stanford-futuredata/gavel)
+
+[10] Zhao, Hanyu, et al. "**HiveD: Sharing a GPU Cluster for Deep Learning with Guarantees.**"
+14th USENIX Symposium on Operating Systems Design and Implementation (OSDI 20). 2020.
+[[pdf]](https://www.usenix.org/system/files/osdi20-zhao_hanyu.pdf)
+[[code]](https://github.com/microsoft/hivedscheduler)
 
 ## Synchronization (Convergence)
 
