@@ -39,6 +39,7 @@ Architecture (HPCA). IEEE, 2015.
 [1] Mao, Hongzi, et al. "**Resource management with deep reinforcement learning.**" Proceedings of the
 15th ACM Workshop on Hot Topics in Networks. ACM, 2016.
 [[pdf]](http://people.csail.mit.edu/alizadeh/papers/deeprm-hotnets16.pdf)
+[[code]](https://github.com/hongzimao/deeprm)
 
 [2] Ipek, Engin, et al. "**Self-optimizing memory controllers: A reinforcement learning approach.**" ACM
 SIGARCH Computer Architecture News. Vol. 36. No. 3. IEEE Computer Society, 2008.
@@ -88,6 +89,7 @@ distributed systems.**" (2016). [[pdf]](https://arxiv.org/pdf/1603.04467.pdf)
 [2] Narayanan, Deepak, et al. "**PipeDream: generalized pipeline parallelism for DNN training.**" 
 Proceedings of the 27th ACM Symposium on Operating Systems Principles (SOSP 19). ACM, 2019.
 [[pdf]](https://www.pdl.cmu.edu/PDL-FTP/BigLearning/sosp19-final271.pdf)
+[[code]](https://github.com/msr-fiddle/pipedream)
 
 [3] Hegde, Vishakh, and Sheema Usmani. "**Parallel and distributed deep learning.**" (2016).
 [[pdf]](https://web.stanford.edu/~rezab/classes/cme323/S16/projects_reports/hedge_usmani.pdf)
@@ -136,6 +138,7 @@ Proceedings of the 24th International Conference on Architectural Support for Pr
 [6] Yu, Peifeng, and Mosharaf Chowdhury. "**Salus: Fine-grained gpu sharing primitives for deep learning applications.**" 
 Proceedings of Machine Learning and Systems 2020 (MLSys 2020).
 [[pdf]](https://www.mosharaf.com/wp-content/uploads/salus-mlsys20.pdf)
+[[code]](https://github.com/SymbioticLab/Salus)
 
 ## Parameter Server
 
@@ -150,6 +153,7 @@ Proceedings of the 2017 ACM International Conference on Management of Data. ACM,
 [3] Cui, Henggang, et al. "**Geeps: Scalable deep learning on distributed gpus with a gpu-specialized parameter server.**"
 Proceedings of the Eleventh European Conference on Computer Systems (EuroSys). ACM, 2016.
 [[pdf]](https://www.pdl.cmu.edu/PDL-FTP/CloudComputing/GeePS-cui-eurosys16.pdf)
+[[code]](https://github.com/cuihenggang/geeps)
 
 [4] Park, Jay H., et al. "**Accelerated Training for CNN Distributed Deep Learning through Automatic Resource-Aware Layer Placement.**" 
 arXiv preprint arXiv:1901.05803 (2019).
@@ -178,6 +182,7 @@ INFOCOM 2018-IEEE Conference on Computer Communications. IEEE, 2018.
 [5] Gu, Juncheng, et al. "**Tiresias: A GPU cluster manager for distributed deep learning.**" 
 16th USENIX Symposium on Networked Systems Design and Implementation (NSDI 19). 2019.
 [[pdf]](https://www.usenix.org/system/files/nsdi19-gu.pdf)
+[[code]](https://github.com/SymbioticLab/Tiresias)
 
 [6] Le, Tan N., et al. "**AlloX: compute allocation in hybrid clusters.**" Proceedings of the 15th European Conference on Computer Systems (Eurosys 20). 2020.
 [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3342195.3387547)
@@ -222,10 +227,12 @@ Advances in neural information processing systems (NIPS). 2012.
 [2] Sergeev, Alexander, and Mike Del Balso. "**Horovod: fast and easy distributed deep learning in TensorFlow.**"
 arXiv preprint arXiv:1802.05799 (2018).
 [[pdf]](https://arxiv.org/pdf/1802.05799.pdf)
+[[code]](https://github.com/horovod/horovod)
 
 [3] Kim, Soojeong, et al. "**Parallax: Sparsity-aware Data Parallel Training of Deep Neural Networks.**"
 Proceedings of the Fourteenth EuroSys Conference 2019. ACM, 2019.
 [[pdf]](https://spl.snu.ac.kr/wp-content/uploads/2012/07/parallax.pdf)
+[[code]](https://github.com/snuspl/parallax)
 
 [4] Xue, Jilong, et al. "**Fast Distributed Deep Learning over RDMA.**"
 Proceedings of the Fourteenth EuroSys Conference 2019. ACM, 2019.
@@ -382,6 +389,7 @@ Proceedings of Machine Learning and Systems 2020 (MLSys 2020).
 [1] Mai, Luo, et al. "**KungFu: Making Training in Distributed Machine Learning Adaptive.**" 
 14th USENIX Symposium on Operating Systems Design and Implementation (OSDI 20). 2020.
 [[pdf]](https://luomai.github.io/publication/2020-osdi-kungfu/2020-osdi-kungfu.pdf)
+[[code]](https://github.com/lsds/KungFu)
 
 [2] Yi, Xiaodong, et al. "**Optimizing distributed training deployment in heterogeneous GPU clusters.**"
 Proceedings of the 16th International Conference on emerging Networking EXperiments and Technologies (CoNEXT 20). 2020.
@@ -417,3 +425,4 @@ Proceedings of VLDB Endowment 2021.
 
 [2] Nair, Arun, et al. "**Massively parallel methods for deep reinforcement learning.**" arXiv preprint arXiv:1507.04296 (2015).
 [[pdf]](https://arxiv.org/pdf/1507.04296.pdf)
+[[code]](https://github.com/Alfredvc/paac)
