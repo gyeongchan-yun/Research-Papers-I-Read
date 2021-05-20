@@ -91,19 +91,28 @@ Proceedings of the 27th ACM Symposium on Operating Systems Principles (SOSP 19).
 [[pdf]](https://www.pdl.cmu.edu/PDL-FTP/BigLearning/sosp19-final271.pdf)
 [[code]](https://github.com/msr-fiddle/pipedream)
 
-[3] Hegde, Vishakh, and Sheema Usmani. "**Parallel and distributed deep learning.**" (2016).
+[3] Park, Jay H., et al. "**Accelerated Training for CNN Distributed Deep Learning through Automatic Resource-Aware Layer Placement.**" 
+arXiv preprint arXiv:1901.05803 (2019).
+[[pdf]](https://arxiv.org/pdf/1901.05803.pdf)
+
+[4] Hegde, Vishakh, and Sheema Usmani. "**Parallel and distributed deep learning.**" (2016).
 [[pdf]](https://web.stanford.edu/~rezab/classes/cme323/S16/projects_reports/hedge_usmani.pdf)
 
-[4] Jia, Zhihao, Matei Zaharia, and Alex Aiken. "**Beyond data and model parallelism for deep neural networks.**" 
+[5] Jia, Zhihao, Matei Zaharia, and Alex Aiken. "**Beyond data and model parallelism for deep neural networks.**" 
 In proceedings of the conference on Systems and Machine Learning (SysML 2019). 2019.
 [[pdf]](https://www.sysml.cc/doc/2019/16.pdf)
 
-[5] Ono, Junya, Masao Utiyama, and Eiichiro Sumita. "**Hybrid Data-Model Parallel Training for Sequence-to-Sequence Recurrent Neural Network Machine Translation.**" arXiv preprint arXiv:1909.00562 (2019).
+[6] Ono, Junya, Masao Utiyama, and Eiichiro Sumita. "**Hybrid Data-Model Parallel Training for Sequence-to-Sequence Recurrent Neural Network Machine Translation.**" arXiv preprint arXiv:1909.00562 (2019).
 [[pdf]](https://arxiv.org/pdf/1909.00562.pdf)
 
-[6] Li, Youjie, et al. "**Pipe-sgd: A decentralized pipelined sgd framework for distributed deep net training.**" 
+[7] Li, Youjie, et al. "**Pipe-sgd: A decentralized pipelined sgd framework for distributed deep net training.**" 
 Advances in Neural Information Processing Systems (NIPS). 2018.
 [[pdf]](https://papers.nips.cc/paper/8028-pipe-sgd-a-decentralized-pipelined-sgd-framework-for-distributed-deep-net-training.pdf)
+
+[8] Yi, Xiaodong, et al. "**Optimizing distributed training deployment in heterogeneous GPU clusters.**"
+Proceedings of the 16th International Conference on emerging Networking EXperiments and Technologies (CoNEXT 20). 2020.
+[[pdf]](https://dl.acm.org/doi/pdf/10.1145/3386367.3432728)
+[[code]](https://github.com/eval-submissions/HeteroG)
 
 ## Microservice
 
@@ -159,13 +168,51 @@ Proceedings of the Eleventh European Conference on Computer Systems (EuroSys). A
 [[pdf]](https://www.pdl.cmu.edu/PDL-FTP/CloudComputing/GeePS-cui-eurosys16.pdf)
 [[code]](https://github.com/cuihenggang/geeps)
 
-[4] Park, Jay H., et al. "**Accelerated Training for CNN Distributed Deep Learning through Automatic Resource-Aware Layer Placement.**" 
-arXiv preprint arXiv:1901.05803 (2019).
-[[pdf]](https://arxiv.org/pdf/1901.05803.pdf)
+## Communication
 
-[5] Chen, Chen, et al. "**Fast distributed deep learning via worker-adaptive batch sizing.**" 
-Proceedings of the ACM Symposium on Cloud Computing (SoCC). 2018.
-[[pdf]](https://dl.acm.org/doi/pdf/10.1145/3267809.3275463)
+[1] Zhang, Hao, et al. "**Poseidon: An efficient communication architecture for distributed deep learning on GPU clusters.**"
+2017 USENIX Annual Technical Conference (USENIX ATC 17). 2017.
+[[pdf]](https://www.usenix.org/system/files/conference/atc17/atc17-zhang.pdf)
+
+[2] Sergeev, Alexander, and Mike Del Balso. "**Horovod: fast and easy distributed deep learning in TensorFlow.**"
+arXiv preprint arXiv:1802.05799 (2018).
+[[pdf]](https://arxiv.org/pdf/1802.05799.pdf)
+[[code]](https://github.com/horovod/horovod)
+
+[3] Kim, Soojeong, et al. "**Parallax: Sparsity-aware Data Parallel Training of Deep Neural Networks.**"
+Proceedings of the Fourteenth EuroSys Conference 2019. ACM, 2019.
+[[pdf]](https://spl.snu.ac.kr/wp-content/uploads/2012/07/parallax.pdf)
+[[code]](https://github.com/snuspl/parallax)
+
+[4] Xue, Jilong, et al. "**Fast Distributed Deep Learning over RDMA.**"
+Proceedings of the Fourteenth EuroSys Conference 2019. ACM, 2019.
+[[pdf]](https://readingxtra.github.io/docs/RMDA/eurosys19-xue-jilong.pdf)
+
+[5] Peng, Yanghua, et al. "**A generic communication scheduler for distributed DNN training acceleration.**" 
+the 27th ACM Symposium on Operating Systems Principles (SOSP 19)
+[[pdf]](https://i.cs.hku.hk/~cwu/papers/yhpeng-sosp19.pdf)
+
+## Decentralized Training
+
+[1] Lian, Xiangru, et al. "**Asynchronous decentralized parallel stochastic gradient descent.**" 
+arXiv preprint arXiv:1710.06952 (2017).
+[[pdf]](http://proceedings.mlr.press/v80/lian18a/lian18a.pdf)
+
+[2] Lian, Xiangru, et al. "**Can decentralized algorithms outperform centralized algorithms? a case study for decentralized parallel stochastic gradient descent.**" 
+Advances in Neural Information Processing Systems (NIPS). 2017.
+[[pdf]](https://papers.nips.cc/paper/7117-can-decentralized-algorithms-outperform-centralized-algorithms-a-case-study-for-decentralized-parallel-stochastic-gradient-descent.pdf)
+
+[3] Luo, Qinyi, et al. "**Hop: Heterogeneity-aware decentralized training.**" 
+Proceedings of the 24th International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS). 2019.
+[[pdf]](http://alchem.usc.edu/~qinyi/download/hop.pdf)
+
+[4] Kadav, Asim, and Erik Kruus. "**ASAP: asynchronous approximate data-parallel computation.**"
+arXiv preprint arXiv:1612.08608 (2016).
+[[pdf]](https://arxiv.org/pdf/1612.08608.pdf)
+
+[5] Luo, Qinyi, et al. "**Prague: High-Performance Heterogeneity-Aware Asynchronous Decentralized Training.**" 
+Proceedings of the 24th ASPLOS. 2020.
+[[pdf]](https://dl.acm.org/doi/pdf/10.1145/3373376.3378499)
 
 ## Cluster Scheduling
 
@@ -226,30 +273,6 @@ Advances in neural information processing systems (NIPS). 2012.
 
 [5] Chen, Jianmin, et al. "**Revisiting distributed synchronous SGD.**" arXiv preprint arXiv:1604.00981 (2016).
 [[pdf]](https://arxiv.org/pdf/1604.00981.pdf)
-
-## Communication
-
-[1] Zhang, Hao, et al. "**Poseidon: An efficient communication architecture for distributed deep learning on GPU clusters.**"
-2017 USENIX Annual Technical Conference (USENIX ATC 17). 2017.
-[[pdf]](https://www.usenix.org/system/files/conference/atc17/atc17-zhang.pdf)
-
-[2] Sergeev, Alexander, and Mike Del Balso. "**Horovod: fast and easy distributed deep learning in TensorFlow.**"
-arXiv preprint arXiv:1802.05799 (2018).
-[[pdf]](https://arxiv.org/pdf/1802.05799.pdf)
-[[code]](https://github.com/horovod/horovod)
-
-[3] Kim, Soojeong, et al. "**Parallax: Sparsity-aware Data Parallel Training of Deep Neural Networks.**"
-Proceedings of the Fourteenth EuroSys Conference 2019. ACM, 2019.
-[[pdf]](https://spl.snu.ac.kr/wp-content/uploads/2012/07/parallax.pdf)
-[[code]](https://github.com/snuspl/parallax)
-
-[4] Xue, Jilong, et al. "**Fast Distributed Deep Learning over RDMA.**"
-Proceedings of the Fourteenth EuroSys Conference 2019. ACM, 2019.
-[[pdf]](https://readingxtra.github.io/docs/RMDA/eurosys19-xue-jilong.pdf)
-
-[5] Peng, Yanghua, et al. "**A generic communication scheduler for distributed DNN training acceleration.**" 
-the 27th ACM Symposium on Operating Systems Principles (SOSP 19)
-[[pdf]](https://i.cs.hku.hk/~cwu/papers/yhpeng-sosp19.pdf)
 
 ## Performance Metric (Benchmark)
 
@@ -327,28 +350,6 @@ Advances in neural information processing systems. 2016.
 Proceedings of the 23rd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining. 2017.
 [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3097983.3098136)
 
-## Decentralized Training
-
-[1] Lian, Xiangru, et al. "**Asynchronous decentralized parallel stochastic gradient descent.**" 
-arXiv preprint arXiv:1710.06952 (2017).
-[[pdf]](http://proceedings.mlr.press/v80/lian18a/lian18a.pdf)
-
-[2] Lian, Xiangru, et al. "**Can decentralized algorithms outperform centralized algorithms? a case study for decentralized parallel stochastic gradient descent.**" 
-Advances in Neural Information Processing Systems (NIPS). 2017.
-[[pdf]](https://papers.nips.cc/paper/7117-can-decentralized-algorithms-outperform-centralized-algorithms-a-case-study-for-decentralized-parallel-stochastic-gradient-descent.pdf)
-
-[3] Luo, Qinyi, et al. "**Hop: Heterogeneity-aware decentralized training.**" 
-Proceedings of the 24th International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS). 2019.
-[[pdf]](http://alchem.usc.edu/~qinyi/download/hop.pdf)
-
-[4] Kadav, Asim, and Erik Kruus. "**ASAP: asynchronous approximate data-parallel computation.**"
-arXiv preprint arXiv:1612.08608 (2016).
-[[pdf]](https://arxiv.org/pdf/1612.08608.pdf)
-
-[5] Luo, Qinyi, et al. "**Prague: High-Performance Heterogeneity-Aware Asynchronous Decentralized Training.**" 
-Proceedings of the 24th ASPLOS. 2020.
-[[pdf]](https://dl.acm.org/doi/pdf/10.1145/3373376.3378499)
-
 ## Hyper-parameter Optimization
 
 [1] Ahnjae Shin, et al. "**Stage-based hyper-parameter optimization for deep learning**" Systems for ML Workshop at NeurIPS 2019.
@@ -387,25 +388,22 @@ SC 18: International Conference for High Performance Computing, Networking, Stor
 Proceedings of Machine Learning and Systems 2020 (MLSys 2020).
 [[pdf]](https://proceedings.mlsys.org/static/paper_files/mlsys/2020/98-Paper.pdf)
 
-## Resource Management
+## Adaptive Training (Resource & Hyper-parameter)
 
-[1] Or, Andrew, Haoyu Zhang, and Michael J. Freedman. "**Resource Elasticity in Distributed Deep Learning.**"
+[1] Chen, Chen, et al. "**Fast distributed deep learning via worker-adaptive batch sizing.**" 
+Proceedings of the ACM Symposium on Cloud Computing (SoCC). 2018.
+[[pdf]](https://dl.acm.org/doi/pdf/10.1145/3267809.3275463)
+
+[2] Or, Andrew, Haoyu Zhang, and Michael J. Freedman. "**Resource Elasticity in Distributed Deep Learning.**"
 Proceedings of Machine Learning and Systems 2020 (MLSys 2020).
 [[pdf]](https://proceedings.mlsys.org/static/paper_files/mlsys/2020/168-Paper.pdf)
 
-## Adaptive Training
-
-[1] Mai, Luo, et al. "**KungFu: Making Training in Distributed Machine Learning Adaptive.**" 
+[3] Mai, Luo, et al. "**KungFu: Making Training in Distributed Machine Learning Adaptive.**" 
 14th USENIX Symposium on Operating Systems Design and Implementation (OSDI 20). 2020.
 [[pdf]](https://luomai.github.io/publication/2020-osdi-kungfu/2020-osdi-kungfu.pdf)
 [[code]](https://github.com/lsds/KungFu)
 
-[2] Yi, Xiaodong, et al. "**Optimizing distributed training deployment in heterogeneous GPU clusters.**"
-Proceedings of the 16th International Conference on emerging Networking EXperiments and Technologies (CoNEXT 20). 2020.
-[[pdf]](https://dl.acm.org/doi/pdf/10.1145/3386367.3432728)
-[[code]](https://github.com/eval-submissions/HeteroG)
-
-## Storage
+## Storage & NVM
 
 [1] Eisenman, Assaf, et al. "**Bandana: Using non-volatile memory for storing deep learning models.**"
 Proceedings of Machine Learning and Systems 2019 (MLSys 2019).
@@ -414,16 +412,16 @@ Proceedings of Machine Learning and Systems 2019 (MLSys 2019).
 [2] Kumar, Abhishek Vijaya, and Muthian Sivathanu. "**Quiver: An informed storage cache for Deep Learning.**" 18th USENIX Conference on File and Storage Technologies (FAST 20). 2020.
 [[pdf]](https://www.usenix.org/system/files/fast20-kumar.pdf)
 
-[3] Mohan, Jayashree, et al. "**Analyzing and Mitigating Data Stalls in DNN Training.**"
-Proceedings of VLDB Endowment 2021.
-[[pdf]](https://vldb.org/pvldb/vol14/p771-mohan.pdf)
-[[code]](https://github.com/msr-fiddle/CoorDL)
-
 ## Input Pipeline
 
 [1] Zhu, Yue, et al. "**Entropy-aware I/O pipelining for large-scale deep learning on HPC systems.**" 
 2018 IEEE 26th International Symposium on Modeling, Analysis, and Simulation of Computer and Telecommunication Systems (MASCOTS). IEEE, 2018.
 [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8526881)
+
+[2] Mohan, Jayashree, et al. "**Analyzing and Mitigating Data Stalls in DNN Training.**"
+Proceedings of VLDB Endowment 2021.
+[[pdf]](https://vldb.org/pvldb/vol14/p771-mohan.pdf)
+[[code]](https://github.com/msr-fiddle/CoorDL)
 
 # System for Reinforcement Learning
 
