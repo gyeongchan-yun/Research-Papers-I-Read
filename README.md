@@ -267,11 +267,16 @@ INFOCOM 2018-IEEE Conference on Computer Communications. IEEE, 2018.
 Advances in neural information processing systems (NIPS). 2012.
 [[pdf]](http://papers.nips.cc/paper/4687-large-scale-distributed-deep-networks.pdf)
 
-[3] Goyal, Priya, et al. "**Accurate, large minibatch sgd: Training imagenet in 1 hour.**" arXiv preprint arXiv:1706.02677 (2017). [[pdf]](https://arxiv.org/pdf/1706.02677.pdf%5B3%5D%20ImageNet)
+[3] Goyal, Priya, et al. "**Accurate, large minibatch sgd: Training imagenet in 1 hour.**"
+arXiv preprint arXiv:1706.02677 (2017).
+[[pdf]](https://arxiv.org/pdf/1706.02677.pdf%5B3%5D%20ImageNet)
 
-[4] Bottou, Léon, and Olivier Bousquet. "**The tradeoffs of large scale learning.**" Advances in neural information processing systems (NIPS). 2008. [[pdf]](http://papers.nips.cc/paper/3323-the-tradeoffs-of-large-scale-learning.pdf)
+[4] Bottou, Léon, and Olivier Bousquet. "**The tradeoffs of large scale learning.**"
+Advances in neural information processing systems (NIPS). 2008.
+[[pdf]](http://papers.nips.cc/paper/3323-the-tradeoffs-of-large-scale-learning.pdf)
 
-[5] Chen, Jianmin, et al. "**Revisiting distributed synchronous SGD.**" arXiv preprint arXiv:1604.00981 (2016).
+[5] Chen, Jianmin, et al. "**Revisiting distributed synchronous SGD.**"
+arXiv preprint arXiv:1604.00981 (2016).
 [[pdf]](https://arxiv.org/pdf/1604.00981.pdf)
 
 ## Performance Metric (Benchmark)
@@ -338,10 +343,12 @@ Advances in Neural Information Processing Systems. 2017.
 Advances in neural information processing systems. 2016.
 [[pdf]](https://papers.nips.cc/paper/6504-learning-structured-sparsity-in-deep-neural-networks.pdf)
 
-[5] Micikevicius, Paulius, et al. "**Mixed precision training.**" arXiv preprint arXiv:1710.03740 (2017).
+[5] Micikevicius, Paulius, et al. "**Mixed precision training.**"
+arXiv preprint arXiv:1710.03740 (2017).
 [[pdf]](https://arxiv.org/pdf/1710.03740.pdf%EF%BC%89%E3%80%82)
 
-[6] Luo, Jian-Hao, and Jianxin Wu. "**Autopruner: An end-to-end trainable filter pruning method for efficient deep model inference.**" arXiv preprint arXiv:1805.08941 (2018).
+[6] Luo, Jian-Hao, and Jianxin Wu. "**Autopruner: An end-to-end trainable filter pruning method for efficient deep model inference.**"
+arXiv preprint arXiv:1805.08941 (2018).
 [[pdf]](https://arxiv.org/pdf/1805.08941.pdf)
 
 ## Multi-task Learning
@@ -352,7 +359,8 @@ Proceedings of the 23rd ACM SIGKDD International Conference on Knowledge Discove
 
 ## Hyper-parameter Optimization
 
-[1] Ahnjae Shin, et al. "**Stage-based hyper-parameter optimization for deep learning**" Systems for ML Workshop at NeurIPS 2019.
+[1] Ahnjae Shin, et al. "**Stage-based hyper-parameter optimization for deep learning**"
+Systems for ML Workshop at NeurIPS 2019.
 [[pdf]](https://spl.snu.ac.kr/wp-content/uploads/2012/07/hippo.pdf)
 
 [2] Smith, Samuel L., et al. "**Don't decay the learning rate, increase the batch size.**" ICLR. 2018.
@@ -377,6 +385,12 @@ ICML AutoML workshop 2018.
 [7] Golovin, Daniel, et al. "**Google vizier: A service for black-box optimization.**" 
 Proceedings of the 23rd ACM SIGKDD international conference on knowledge discovery and data mining. 2017.
 [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3097983.3098043)
+
+[8] Stich, Sebastian, Amirkeivan Mohtashami, and Martin Jaggi.
+"**Critical Parameters for Scalable Distributed Learning with Large Batches and Asynchronous Updates.**"
+International Conference on Artificial Intelligence and Statistics. PMLR, 2021.
+[[pdf]](http://proceedings.mlr.press/v130/stich21a/stich21a.pdf)
+
 
 ## Ensemble Training
 
@@ -403,13 +417,22 @@ Proceedings of Machine Learning and Systems 2020 (MLSys 2020).
 [[pdf]](https://luomai.github.io/publication/2020-osdi-kungfu/2020-osdi-kungfu.pdf)
 [[code]](https://github.com/lsds/KungFu)
 
+[4] Lin, Haibin, et al. "**Dynamic mini-batch sgd for elastic distributed training: Learning in the limbo of resources.**"
+arXiv preprint arXiv:1904.12043 (2019).
+[[pdf]](https://arxiv.org/pdf/1904.12043)
+
+[5] Johnson, Tyler, et al. "**AdaScale SGD: A user-friendly algorithm for distributed training.**"
+International Conference on Machine Learning. PMLR, 2020.
+[[pdf]](http://proceedings.mlr.press/v119/johnson20a/johnson20a.pdf)
+
 ## Storage & NVM
 
 [1] Eisenman, Assaf, et al. "**Bandana: Using non-volatile memory for storing deep learning models.**"
 Proceedings of Machine Learning and Systems 2019 (MLSys 2019).
 [[pdf]](https://proceedings.mlsys.org/book/2019/file/34173cb38f07f89ddbebc2ac9128303f-Paper.pdf)
 
-[2] Kumar, Abhishek Vijaya, and Muthian Sivathanu. "**Quiver: An informed storage cache for Deep Learning.**" 18th USENIX Conference on File and Storage Technologies (FAST 20). 2020.
+[2] Kumar, Abhishek Vijaya, and Muthian Sivathanu. "**Quiver: An informed storage cache for Deep Learning.**"
+18th USENIX Conference on File and Storage Technologies (FAST 20). 2020.
 [[pdf]](https://www.usenix.org/system/files/fast20-kumar.pdf)
 
 ## Input Pipeline
