@@ -279,6 +279,10 @@ Advances in neural information processing systems (NIPS). 2008.
 arXiv preprint arXiv:1604.00981 (2016).
 [[pdf]](https://arxiv.org/pdf/1604.00981.pdf)
 
+[6] Oh, Hyungjun, et al. "**Convergence-aware neural network training.**"
+2020 57th ACM/IEEE Design Automation Conference (DAC). IEEE, 2020.)
+[[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9218518&casa_token=rnALPYA6Ed8AAAAA:l_uIFQxstp6StPgNf5tbMuAXyD-AkXfT2VxNjTZUj1QxWPKxrDTigfbJacjhpqI8QlLMGdWr)
+
 ## Performance Metric (Benchmark)
 
 [1] Coleman, Cody, et al. "**Dawnbench: An end-to-end deep learning benchmark and competition.**"
