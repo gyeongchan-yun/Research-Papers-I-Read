@@ -395,6 +395,9 @@ Proceedings of the 23rd ACM SIGKDD international conference on knowledge discove
 International Conference on Artificial Intelligence and Statistics. PMLR, 2021.
 [[pdf]](http://proceedings.mlr.press/v130/stich21a/stich21a.pdf)
 
+[9] Rocha, Isabelly, et al. "**PipeTune: Pipeline Parallelism of Hyper and System Parameters Tuning for Deep Learning Clusters.**"
+Proceedings of the 21st International Middleware Conference. 2020.
+[[pdf]](https://dl.acm.org/doi/pdf/10.1145/3423211.3425692)
 
 ## Ensemble Training
 
